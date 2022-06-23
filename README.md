@@ -1,6 +1,14 @@
 ### Hi there 👋
 
 ![Ahmed's GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ahmdmhasn)
+
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/ahmdmhasn/"><img align="left" src="https://user-images.githubusercontent.com/45182214/175390816-ea39d5ab-dfb9-435e-9525-24d34955f445.svg" alt="Ahmed M. Hassan | LinkedIn" width="20px"/></a>
+<a href="https://ahmdmhasn.medium.com/"><img align="left" src="https://user-images.githubusercontent.com/45182214/175390821-ad39e235-c01f-42fb-81b4-c6a7acf396a5.svg" alt="Ahmed M. Hassan | Medium" width="21px"/></a>
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
 <!--
 **ahmdmhasn/ahmdmhasn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
